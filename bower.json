@@ -1,0 +1,31 @@
+{
+  "name": "leaflet-latlng-geodesy",
+  "version": "1.0.0",
+  "homepage": "https://github.com/FCOO/leaflet-latlng-geodesy",
+  "authors": [
+    "Niels Holt"
+  ],
+  "description": "",
+  "main": [
+    "dist/leaflet-latlng-geodesy.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/leaflet-latlng-geodesy.git"
+  },
+  "dependencies": {
+    "leaflet": "latest"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "es6"
+  ]
+}
