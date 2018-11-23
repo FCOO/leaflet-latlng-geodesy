@@ -1,6 +1,6 @@
 {
   "name": "leaflet-latlng-geodesy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/FCOO/leaflet-latlng-geodesy",
   "authors": [
     "Niels Holt"
@@ -17,7 +17,7 @@
     "leaflet": "latest"
   },
   "devDependencies": {
-    "geodesy": "chrisveness/geodesy#^1.1.3"
+    "geodesy": "https://github.com/chrisveness/geodesy.git#^1.1.3"
   },
   "license": "MIT",
   "ignore": [
